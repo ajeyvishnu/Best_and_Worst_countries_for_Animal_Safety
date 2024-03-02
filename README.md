@@ -2,7 +2,7 @@
 
 Welcome to the Animal Rights Index Visualization repository! This project was created as part of the Makeover Monday 2024 Week 9 Challenge.
 
-![Animal Rights Index Visualization](snapshot.png)
+![Animal Rights Index Visualization](Snapshot.png)
 
 ## Overview
 
